@@ -7,5 +7,6 @@ export default defineConfig({
 	base: "/", // Ensure this is correct for local development
 	build: {
 		assetsDir: "assets", // Ensure assets are placed in the correct directory
+		// Removed invalid property `outputDirectory`
 	},
 });
