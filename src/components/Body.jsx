@@ -17,7 +17,7 @@ const Hero = () => {
   return (
     
     
-    <><section className="pt-32 pb-32 px-4 mt-0 max-sm:m-2 max-md:m-10 max-lg:mx-20 lg:mx-50">
+    <><section className="pt-32 pb-32 px-4 mt-0 max-sm:m-2 max-md:m-10 max-lg:mx-20 lg:mx-50 scrollbar">
 
       <div className='intro-img inline-block bg-emerald-700 dark:bg-transparent rounded-2xl mb-10'>
         <a href="">
