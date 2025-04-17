@@ -2,7 +2,6 @@
   "name": "react-tailwind-proj",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://seragithantsha.github.io/app-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -33,5 +32,4 @@
     "globals": "^15.14.0",
     "vite": "^6.0.5"
   }
-  
 }

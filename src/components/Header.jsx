@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 
-
 const Header = () => {
   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -33,19 +32,15 @@ const Header = () => {
     // Add search functionality here
   };
 
- 
-
   if (!mounted) return null;
 
   return (
     <header className="header fixed top-0 left-0 w-full z-50 transition-all bg-white dark:bg-zinc-900 shadow-sm">
-      
-      
       <div className="flex items-center justify-between w-full px-4 py-3 h-16">
         {/* Logoo */}
         <div className="flex-shrink-0 h-full flex items-center bg-emerald-700/90 dark:bg-transparent rounded-xl p-2 px-0">
           <img 
-            src="../../images/Logo.png" 
+            src="/images/Logo.png" 
             className="h-full w-auto max-h-12 object-contain" 
             alt="Company Logo"
             style={{
@@ -154,8 +149,6 @@ const Header = () => {
               </svg>
             )}
           </button>
-
-          
 
           {/* Hamburger Menu */}
           <div className="relative pb-1">
