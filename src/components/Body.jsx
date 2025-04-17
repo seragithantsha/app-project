@@ -35,7 +35,7 @@ const Hero = () => {
           <div className="info-card flex justify-center items-center grid-cols-2 p-2 bg-gray-200 dark:bg-white rounded-2xl shadow-md">
             <img className="im1 rounded-2xl" src="/images/tourism-guide-signs/3.png" alt="" />
               <div className=" flex justify-center items-center  p-2 text-center">
-                <h3 className="text-4xl text-purple-800">8'ta!</h3>
+                <h2 className="text-4xl text-purple-800">8'ta!</h2>
                 <p className="text-black dark:text-gray-800 p-4">
                   Make your travels and stay here in South Africa much
                   better with the The SA Tourism's Vaya App helping you 
