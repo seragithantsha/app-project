@@ -38,7 +38,7 @@ const Header = () => {
   if (!mounted) return null;
 
   return (
-    <header className="header fixed top-2 w-full z-50 transition-all bg-white dark:bg-zinc-800 rounded-2xl shadow-sm">
+    <header className="header fixed top-0 left-0 w-full z-50 transition-all bg-white dark:bg-zinc-900 shadow-sm">
       
       
       <div className="flex items-center justify-between w-full px-4 py-3 h-16">
