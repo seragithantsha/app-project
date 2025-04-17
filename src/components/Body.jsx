@@ -135,7 +135,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a2-provincial-parks/a2-1.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white lg:p-4" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a2-provincial-parks/a2-1.png" alt="Sign Image" className="w-full h-48 object-contain bg-white lg:p-4" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">Provincial Parks</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Gauteng</p>
