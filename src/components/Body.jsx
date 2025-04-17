@@ -184,7 +184,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden center">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3.png" alt="Sign Image" className="w-full h-48 object-contain bg-white lg:p-4" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white lg:p-4" />
                 <div className="pt-2 ml-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Generic-Resorts</p>
@@ -194,7 +194,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-1.png" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-1.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3-1</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Country Clubs (Golf)</p>
@@ -204,7 +204,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-2.png" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-2.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3-2</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Hot Springs</p>
@@ -214,7 +214,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-3.png" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-3.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3-3</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Inland Water</p>
@@ -224,7 +224,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-4.png" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-4.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3-4</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Seaside/Beach</p>
@@ -234,7 +234,7 @@ const Hero = () => {
 
             <a href="#" className="hover:scale-105 transition-transform duration-300 cursor-pointer">
               <div className="bg-gray-200 dark:bg-zinc-700/50 rounded-lg shadow-md overflow-hidden">
-                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-5.png" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
+                <img src="/images/tourism-guide-signs/tourist-attractions/a3-resorts/a3-5.PNG" alt="Sign Image" className="w-full h-48 object-contain bg-white" />
                 <div className="p-2">
                   <p className="text-sm text-gray-700 dark:text-gray-300">GFS A3-5</p>
                   <p className="font-semibold text-gray-700 dark:text-gray-300">Berg/Mountain</p>
